@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * @Author: qh
  * @Date: 2019/3/5 10:10
- * @Description:
+ * @Description:  实现session共享
  */
 @RestController
 @RequestMapping(value = "/admin/v1/")
